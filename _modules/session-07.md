@@ -1,5 +1,5 @@
 ---
-title: "Meeting 7: Basics of Software management"
+title: "Meeting 7:  Research Software Management Essentials"
 ---
 
 11.05.2023
